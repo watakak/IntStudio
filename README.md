@@ -4,7 +4,6 @@ This is an Code Editor based on Python. Made specifically for unpopular language
 
 Supported Programming Languages:
 - C%
-- C&
 
 It's have a source code, feel free to contributing anything you want into the main page.
 
