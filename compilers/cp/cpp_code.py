@@ -6,7 +6,7 @@ input_file = 'compilers/main.cp'
 
 replacement_dict = {
     r'console.out\(\'(.*?)\'\)': r'std::cout << "\1" << std::endl;',
-    'include cp': '#include <iostream>',
+    'import cp': '#include <iostream>',
     'return class': 'return 0;',
     'class': 'int',
     'def': 'void',
