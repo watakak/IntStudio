@@ -290,7 +290,7 @@ editArea = Text(root, background=background, foreground=normal,
                 font=(font, font_size), undo=True)
 
 editArea.pack(fill=BOTH, expand=1)
-editArea.insert('1.0', '''include cp
+editArea.insert('1.0', '''import cp
 
 class main() {
     console.out('Welcome to IntStudio!')
