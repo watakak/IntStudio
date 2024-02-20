@@ -7,4 +7,4 @@ Supported Programming Languages:
 
 It's have a source code, feel free to contributing anything you want into the main page.
 
-![image](https://user-images.githubusercontent.com/122512138/234689225-ca756cb8-c9bc-47c2-bfb9-00f6b09eab4b.png)
+![image](https://github.com/watakak/IntStudio/assets/155397402/ab97d042-ab0b-4210-813b-5cf7c6b9521d)
