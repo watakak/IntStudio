@@ -1,6 +1,6 @@
 import re
 
-#C% COMPILER 0.1 UNWORKING VERSION.
+#C% COMPILER 0.1 UNSTABLE VERSION.
 
 input_file = 'compilers/main.cp'
 
