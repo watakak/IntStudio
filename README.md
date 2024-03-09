@@ -3,7 +3,7 @@
 This is an Code Editor based on Python. Made specifically for unpopular languages.
 
 Supported Programming Languages:
-- Lint
+- [Lint](https://github.com/watakak/Lint)
 - SwipeScript
 - Objective-Pascal
 - Py#
