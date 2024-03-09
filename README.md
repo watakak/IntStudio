@@ -3,7 +3,10 @@
 This is an Code Editor based on Python. Made specifically for unpopular languages.
 
 Supported Programming Languages:
-- C%
+- Lint
+- SwipeScript
+- Objective-Pascal
+- Py#
 
 It's have a source code, feel free to contributing anything you want into the main page.
 
